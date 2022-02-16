@@ -19,9 +19,3 @@ elif m <= duration and h > duration:
     days = seconds // 86400
     seconds = seconds % 86400
     print(f"{days} дн, {hours} час, {minutes} мин, {seconds} сек")
-
-
-
-    print("fjdfjds;jfd")
-
-    print("kshfjdskfh")
